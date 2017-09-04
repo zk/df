@@ -19,3 +19,5 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
+path fail: dwarf,Fell Tree,167,117,169 -> 171,117,169: Id #3348:Path Goal Chop:Station Mill Building at 63,49,166
+path fail: dwarf,Fell Tree,159,111,169 -> 171,117,169: Id #3348:Path Goal Chop:Station Mill Building at 63,49,166

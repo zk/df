@@ -33,3 +33,5 @@
 [2017-09-04T11:07:24-1000] DFHack 0.43.05-beta1-0-g33060c7d on OS X; cwd md5: d9ad48291a; save: region2; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
 [2017-09-04T11:08:28-1000] DFHack 0.43.05-beta1-0-g33060c7d on OS X; cwd md5: d9ad48291a; save: region2; SC_WORLD_LOADED; game type DWARF_MAIN (0)
 [2017-09-04T11:08:28-1000] DFHack 0.43.05-beta1-0-g33060c7d on OS X; cwd md5: d9ad48291a; save: region2; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2017-09-04T13:55:40-1000] DFHack 0.43.05-beta1-0-g33060c7d on OS X; cwd md5: d9ad48291a; save: region2; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2017-09-04T13:55:40-1000] DFHack 0.43.05-beta1-0-g33060c7d on OS X; cwd md5: d9ad48291a; save: region2; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
