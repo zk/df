@@ -1,0 +1,21 @@
+PLAINS trying to generate musical form without speech or instruments
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: sturgeon,1,118,168 -> 20,108,168: Id #14334:Path Goal Flee Terrain:Station None at 2,117,168
+path fail: sturgeon,0,116,168 -> 10,112,168: Id #14334:Path Goal Marauder Mill:Station Marauder Mill at 10,112,168
+path fail: emu,0,114,169 -> 0,117,168: Id #14459:Path Goal Seek Station Flood:Station Owner at 0,117,168
+loop path fail: <same square> troglodyte,180,128,144 -> 184,125,144: Id #14513:Path Goal Seek Station:Station Owner at 172,136,144
+path fail: sea lamprey,0,117,168 -> 10,112,168: Id #14350:Path Goal Marauder Mill:Station Marauder Mill at 10,112,168
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag

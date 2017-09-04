@@ -1,0 +1,3 @@
+dyld: could not load inserted library './hack/libdfhack.dylib' because no suitable image found.  Did find:
+	./hack/libdfhack.dylib: mach-o, but wrong architecture
+

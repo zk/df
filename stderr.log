@@ -1,0 +1,1763 @@
+2017-09-03 20:55:18.541 dwarfort.exe[59327:5034553] 20:55:18.540 WARNING:  140: This application, or a library it uses, is using the deprecated Carbon Component Manager for hosting Audio Units. Support for this will be removed in a future release. Also, this makes the host incompatible with version 3 audio units. Please transition to the API's in AudioComponent.h.
+dfhack: saving real SDL functions
+dfhack: saved real SDL functions
+dfhack: hooking successful
+DFHack build: 0.43.05-beta1-0-g33060c7d
+Identifying DF version.
+Loading hack/symbols.xml ... OK
+v0.43.05 win32: PE: 0x577b57ff
+v0.43.05 win64: PE: 0x577b5e93
+v0.43.05 linux32: MD5: 652a8b5cf02f0fbb7062f0df1607126b
+Dummy symbol table entry: debug_nopause
+Dummy symbol table entry: debug_nomoods
+Dummy symbol table entry: debug_combat
+Dummy symbol table entry: debug_wildlife
+Dummy symbol table entry: debug_nodrink
+Dummy symbol table entry: debug_noeat
+Dummy symbol table entry: debug_nosleep
+Dummy symbol table entry: debug_showambush
+Dummy symbol table entry: debug_fastmining
+Dummy symbol table entry: debug_noberserk
+Dummy symbol table entry: debug_turbospeed
+Dummy symbol table entry: save_on_exit
+v0.43.05 linux64: MD5: af8cc86c9b19475f411aa8691b988155
+Dummy symbol table entry: texture
+Dummy symbol table entry: debug_nopause
+Dummy symbol table entry: debug_nomoods
+Dummy symbol table entry: debug_combat
+Dummy symbol table entry: debug_wildlife
+Dummy symbol table entry: debug_nodrink
+Dummy symbol table entry: debug_noeat
+Dummy symbol table entry: debug_nosleep
+Dummy symbol table entry: debug_showambush
+Dummy symbol table entry: debug_fastmining
+Dummy symbol table entry: debug_noberserk
+Dummy symbol table entry: debug_turbospeed
+Dummy symbol table entry: save_on_exit
+Dummy symbol table entry: start_dwarf_count
+v0.43.05 osx32: MD5: 8fce00fbae1d3f83cb87326dbadce976
+Dummy symbol table entry: debug_nopause
+Dummy symbol table entry: debug_nomoods
+Dummy symbol table entry: debug_combat
+Dummy symbol table entry: debug_wildlife
+Dummy symbol table entry: debug_nodrink
+Dummy symbol table entry: debug_noeat
+Dummy symbol table entry: debug_nosleep
+Dummy symbol table entry: debug_showambush
+Dummy symbol table entry: debug_fastmining
+Dummy symbol table entry: debug_noberserk
+Dummy symbol table entry: debug_turbospeed
+Dummy symbol table entry: save_on_exit
+v0.43.05 osx64: MD5: 6ec138c53d2754591b83d55b86b2b416
+Dummy symbol table entry: debug_nopause
+Dummy symbol table entry: debug_nomoods
+Dummy symbol table entry: debug_combat
+Dummy symbol table entry: debug_wildlife
+Dummy symbol table entry: debug_nodrink
+Dummy symbol table entry: debug_noeat
+Dummy symbol table entry: debug_nosleep
+Dummy symbol table entry: debug_showambush
+Dummy symbol table entry: debug_fastmining
+Dummy symbol table entry: debug_noberserk
+Dummy symbol table entry: debug_turbospeed
+Dummy symbol table entry: save_on_exit
+Loaded 6 DF symbol tables.
+Version: v0.43.05 osx64
+Initializing Console.
+Console is running.
+Initializing Plugins.
+loading plugin 3dveins
+loaded plugin 3dveins; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin add-spatter
+loaded plugin add-spatter; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin autochop
+loaded plugin autochop; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin autodump
+loaded plugin autodump; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin autogems
+loaded plugin autogems; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin autohauler
+loaded plugin autohauler; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin autolabor
+loaded plugin autolabor; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin automaterial
+loaded plugin automaterial; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin automelt
+loaded plugin automelt; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin autotrade
+loaded plugin autotrade; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin blueprint
+loaded plugin blueprint; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin building-hacks
+loaded plugin building-hacks; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin buildingplan
+loaded plugin buildingplan; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin burrows
+loaded plugin burrows; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin changeitem
+loaded plugin changeitem; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin changelayer
+loaded plugin changelayer; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin changevein
+loaded plugin changevein; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin cleanconst
+loaded plugin cleanconst; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin cleaners
+loaded plugin cleaners; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin cleanowned
+loaded plugin cleanowned; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin command-prompt
+loaded plugin command-prompt; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin confirm
+loaded plugin confirm; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin createitem
+loaded plugin createitem; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin cursecheck
+loaded plugin cursecheck; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin deramp
+loaded plugin deramp; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin dig
+loaded plugin dig; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin digFlood
+loaded plugin digFlood; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin dwarfmonitor
+loaded plugin dwarfmonitor; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin dwarfvet
+loaded plugin dwarfvet; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin embark-tools
+loaded plugin embark-tools; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin eventful
+loaded plugin eventful; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin fastdwarf
+loaded plugin fastdwarf; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin filltraffic
+loaded plugin filltraffic; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin fix-armory
+loaded plugin fix-armory; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin fix-unit-occupancy
+loaded plugin fix-unit-occupancy; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin fixveins
+loaded plugin fixveins; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin flows
+loaded plugin flows; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin follow
+loaded plugin follow; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin forceequip
+loaded plugin forceequip; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin fortplan
+loaded plugin fortplan; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin generated-creature-renamer
+loaded plugin generated-creature-renamer; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin getplants
+loaded plugin getplants; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin hotkeys
+loaded plugin hotkeys; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin infiniteSky
+loaded plugin infiniteSky; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin isoworldremote
+loaded plugin isoworldremote; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin jobutils
+loaded plugin jobutils; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin labormanager
+loaded plugin labormanager; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin lair
+loaded plugin lair; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin liquids
+loaded plugin liquids; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin luasocket
+loaded plugin luasocket; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin manipulator
+loaded plugin manipulator; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin misery
+loaded plugin misery; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin mode
+loaded plugin mode; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin mousequery
+loaded plugin mousequery; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin petcapRemover
+loaded plugin petcapRemover; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin plants
+loaded plugin plants; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin power-meter
+loaded plugin power-meter; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin probe
+loaded plugin probe; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin prospector
+loaded plugin prospector; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin regrass
+loaded plugin regrass; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin RemoteFortressReader
+loaded plugin RemoteFortressReader; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin rename
+loaded plugin rename; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin rendermax
+loaded plugin rendermax; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin resume
+loaded plugin resume; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin reveal
+loaded plugin reveal; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin ruby
+dlopen(hack/libruby.dylib, 6): image not found
+ruby: warning: Failed to load hack/libruby.dylib
+loaded plugin ruby; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin search
+loaded plugin search; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin seedwatch
+loaded plugin seedwatch; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin showmood
+loaded plugin showmood; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin siege-engine
+loaded plugin siege-engine; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin sort
+loaded plugin sort; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin steam-engine
+loaded plugin steam-engine; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin stockflow
+loaded plugin stockflow; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin stockpiles
+loaded plugin stockpiles; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin stocks
+loaded plugin stocks; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin strangemood
+loaded plugin strangemood; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin tiletypes
+loaded plugin tiletypes; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin title-folder
+dlopen(SDLreal.dll, 6): image not found
+loaded plugin title-folder; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin title-version
+loaded plugin title-version; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin trackstop
+loaded plugin trackstop; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin tubefill
+loaded plugin tubefill; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin tweak
+loaded plugin tweak; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin workflow
+loaded plugin workflow; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin workNow
+loaded plugin workNow; DFHack build 0.43.05-beta1-0-g33060c7d
+loading plugin zone
+loaded plugin zone; DFHack build 0.43.05-beta1-0-g33060c7d
+Starting IO thread.
+Starting DF input capture thread.
+Starting the TCP listener.
+Invoking: gui/no-dfhack-init
+TCP listen failed.
+DFHack is running.
+UNKNOWN CLASS 'ack21dfhack_lua_viewscreenE': vtable = 0x102646290
+Invoking: keybinding add Ctrl-F1 hotkeys
+Invoking: keybinding add Alt-F1 hotkeys
+Invoking: keybinding add Ctrl-W twaterlvl
+Invoking: keybinding add Ctrl-V digv
+Invoking: keybinding add Ctrl-Shift-V "digv x"
+Invoking: keybinding add Ctrl-C spotclean
+Invoking: keybinding add Ctrl-Shift-K autodump-destroy-here
+Invoking: keybinding add Alt-Shift-I@dwarfmode/Zones "zone set"
+Invoking: keybinding add Ctrl-K autodump-destroy-item
+Invoking: keybinding add Ctrl-Alt-S@dwarfmode/Default quicksave
+Invoking: keybinding add Ctrl-Shift-N gui/rename
+Invoking: keybinding add Ctrl-Shift-T "gui/rename unit-profession"
+Invoking: keybinding add Ctrl-Shift-P command-prompt
+Invoking: keybinding add Alt-M@dwarfmode/Default "dwarfmonitor prefs"
+Invoking: keybinding add Ctrl-F@dwarfmode/Default "dwarfmonitor stats"
+Invoking: keybinding add Ctrl-Shift-F@dwarfmode forum-dwarves
+Invoking: keybinding add Alt-S@title gui/settings-manager
+Invoking: keybinding add Alt-S@dwarfmode/Default gui/settings-manager
+Invoking: keybinding add Alt-Q@jobmanagement gui/manager-quantity
+Invoking: keybinding add Ctrl-B@dungeonmode adv-bodyswap
+Invoking: keybinding add Ctrl-Shift-B@dungeonmode "adv-bodyswap force"
+Invoking: keybinding add Shift-O@dungeonmode gui/companion-order
+Invoking: keybinding add Ctrl-A@legends "exportlegends all"
+Invoking: keybinding add Ctrl-Shift-Z@dwarfmode/Default "stocks show"
+Invoking: keybinding add Ctrl-Shift-I@dwarfmode/Default "gui/dfstatus"
+Invoking: keybinding add Ctrl-Shift-I@dfhack/lua/dfstatus "gui/dfstatus"
+Invoking: keybinding add Alt-P copystock
+Invoking: keybinding add Alt-L@dwarfmode/QueryBuilding/Some/Stockpile "gui/stockpiles -load"
+Invoking: keybinding add Alt-S@dwarfmode/QueryBuilding/Some/Stockpile "gui/stockpiles -save"
+Invoking: keybinding add Ctrl-D job-duplicate
+Invoking: keybinding add Shift-A "job-material ALUNITE"
+Invoking: keybinding add Shift-M "job-material MICROCLINE"
+Invoking: keybinding add Shift-D "job-material DACITE"
+Invoking: keybinding add Shift-R "job-material RHYOLITE"
+Invoking: keybinding add Shift-I "job-material CINNABAR"
+Invoking: keybinding add Shift-B "job-material COBALTITE"
+Invoking: keybinding add Shift-O "job-material OBSIDIAN"
+Invoking: keybinding add Shift-T "job-material ORTHOCLASE"
+Invoking: keybinding add Shift-G "job-material GLASS_GREEN"
+Invoking: keybinding add Alt-Shift-N "sort-units name" "sort-items description"
+Invoking: keybinding add Alt-Shift-R "sort-units arrival"
+Invoking: keybinding add Alt-Shift-T "sort-units profession" "sort-items type material"
+Invoking: keybinding add Alt-Shift-Q "sort-units squad_position" "sort-items quality"
+Invoking: keybinding add Ctrl-M@dwarfmode/QueryBuilding/Some gui/mechanisms
+Invoking: keybinding add Alt-R@dwarfmode/QueryBuilding/Some gui/room-list
+Invoking: keybinding add Alt-L@dwarfmode/LookAround gui/liquids
+Invoking: keybinding add Ctrl-Shift-M@dwarfmode/Build/Position/Trap gui/power-meter
+Invoking: keybinding add Alt-A@dwarfmode/QueryBuilding/Some/SiegeEngine gui/siege-engine
+Invoking: keybinding add Ctrl-W@layer_military/Equip/Customize/View gui/choose-weapons
+Invoking: keybinding add Ctrl-C@layer_military/Uniforms gui/clone-uniform
+Invoking: keybinding add Alt-P@dwarfmode/Hauling/DefineStop/Cond/Guide gui/guide-path
+Invoking: keybinding add Alt-A@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workshop-job
+Invoking: keybinding add Shift-B@pet/List/Unit "gui/autobutcher"
+Invoking: keybinding add P@dwarfmode/QueryBuilding/Some/Weaponrack gui/assign-rack
+Invoking: tweak stable-cursor
+Enabled tweak stable-cursor (stable_cursor_hook::feed)
+Invoking: tweak advmode-contained
+Enabled tweak advmode-contained (advmode_contained_hook::feed)
+Invoking: tweak fast-trade
+Enabled tweak fast-trade (fast_trade_assign_hook::feed)
+Enabled tweak fast-trade (fast_trade_select_hook::feed)
+Invoking: tweak military-stable-assign
+Enabled tweak military-stable-assign (military_assign_hook::feed)
+Invoking: tweak military-color-assigned
+Enabled tweak military-color-assigned (military_assign_hook::render)
+Invoking: tweak craft-age-wear
+Enabled tweak craft-age-wear (craft_age_wear_hook::ageItem)
+Invoking: tweak farm-plot-select
+Enabled tweak farm-plot-select (farm_select_hook::feed)
+Enabled tweak farm-plot-select (farm_select_hook::render)
+Invoking: tweak import-priority-category
+Enabled tweak import-priority-category (takerequest_hook::feed)
+Enabled tweak import-priority-category (takerequest_hook::render)
+Invoking: tweak block-labors              # Prevents labors that can't be used from being toggled
+Enabled tweak block-labors (block_labors_hook::feed)
+Enabled tweak block-labors (block_labors_hook::render)
+Invoking: tweak civ-view-agreement
+Enabled tweak civ-view-agreement (civ_agreement_view_hook::render)
+Invoking: tweak eggs-fertile
+Enabled tweak eggs-fertile (egg_fertile_hook::render)
+Invoking: tweak fps-min
+Enabled tweak fps-min (fps_min_hook)
+Invoking: tweak hide-priority
+Enabled tweak hide-priority (hide_priority_hook::feed)
+Enabled tweak hide-priority (hide_priority_hook::render)
+Invoking: tweak kitchen-keys
+Enabled tweak kitchen-keys (kitchen_keys_hook::feed)
+Enabled tweak kitchen-keys (kitchen_keys_hook::render)
+Invoking: tweak kitchen-prefs-empty
+Enabled tweak kitchen-prefs-empty (kitchen_prefs_empty_hook::render)
+Invoking: tweak max-wheelbarrow
+Enabled tweak max-wheelbarrow (max_wheelbarrow_hook::render)
+Enabled tweak max-wheelbarrow (max_wheelbarrow_hook::feed)
+Invoking: tweak shift-8-scroll
+Enabled tweak shift-8-scroll (shift_8_scroll_hook::feed)
+Invoking: tweak title-start-rename
+Enabled tweak title-start-rename (title_start_rename_hook::feed)
+Enabled tweak title-start-rename (title_start_rename_hook::render)
+Invoking: tweak tradereq-pet-gender
+Enabled tweak tradereq-pet-gender (pet_gender_hook::render)
+Invoking: enable title-version
+Invoking: enable manipulator
+Invoking: enable search
+Invoking: enable automaterial
+Invoking: enable  confirm  dwarfmonitor  mousequery  autogems  automelt  autotrade  buildingplan  resume  trackstop  zone  stocks  autochop  stockpiles
+Invoking: embark-tools enable sticky sand mouse
+Invoking: modtools/extra-gamelog enable
+Invoking: enable gui/extended-status
+Invoking: view-item-info enable
+Invoking: gui/load-screen enable
+Invoking: gui/prerelease-warning
+loaded map in prerelease build
+Invoking: gui/prerelease-warning
+loaded map in prerelease build
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: gui/prerelease-warning
+loaded map in prerelease build
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+Invoking: prospect
+UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x10d5c5710
+UNKNOWN CLASS 'iewscreenAutochop': vtable = 0x10c8f6410
+Invoking: job-material RHYOLITE
+Current job material isn't inorganic: coral
+Invoking: gui/prerelease-warning
+loaded map in prerelease build
+Invoking: gui/prerelease-warning
+loaded map in prerelease build
