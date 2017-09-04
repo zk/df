@@ -12,7 +12,7 @@ Change this to turn sound off.
 
 The sound volume runs from 0 (off) to 255 (full).  You can set the volume from the ESC options menu as well.
 
-[VOLUME:255]
+[VOLUME:0]
 
 Change this to skip the wonderful intro movies.
 
@@ -25,8 +25,8 @@ This lets you set the starting windowed/fullscreen setting.  Can be YES, NO or P
 This is the size and font for windowed mode.  Changing to the 800x600 font might make you happier.
 If set below 256x256 it specifies the grid size instead, with a minimum of 80x25.
 
-[WINDOWEDX:80]
-[WINDOWEDY:25]
+[WINDOWEDX:800]
+[WINDOWEDY:600]
 [FONT:curses_640x300.png]
 
 You may disable window resizing if you wish.
