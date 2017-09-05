@@ -29,3 +29,4 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,Eat,56,52,166 -> 55,55,166: Id #3369:Path Goal Seek Eating Chair:Station Mill Building at 54,57,166
