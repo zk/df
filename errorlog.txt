@@ -8746,3 +8746,8 @@ removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
 removed erroneous unit occupancy flag
+loop path fail: <same square> crundle,176,110,35 -> 165,119,35: Id #16049:Path Goal Seek Station:Station Owner at 174,112,35
+loop path fail: <same square> crundle,24,176,43 -> 24,175,43: Id #16153:Path Goal Flee from Opponent:Station None at 22,191,43
+path fail: dwarf,Drink,178,68,66 -> 179,67,65: Id #9419:Path Goal Start Water Job Drink Area:Station Mill Building at 125,142,62
+path fail: dwarf,Drink,175,69,66 -> 176,69,65: Id #9419:Path Goal Start Water Job Drink Area:Station Mill Building at 131,146,62
+path fail: dwarf,Return Kill,180,76,65 -> 93,148,44: Id #10442:Path Goal Grab Kill:Station Mill Building at 122,146,62
