@@ -8739,3 +8739,10 @@ path fail: dwarf,Hunt,80,55,166 -> 118,98,123: Id #3814:Path Goal Start Hunt:Sta
 path fail: dwarf,Hunt,83,58,166 -> 118,98,123: Id #6331:Path Goal Start Hunt:Station Mill Building at 62,58,166
 path fail: dwarf,Hunt,71,59,166 -> 116,99,123: Id #7221:Path Goal Start Hunt:Station Mill Building at 72,58,166
 path fail: dwarf,Hunt,72,55,166 -> 116,99,123: Id #9964:Path Goal Start Hunt:Station Mill Building at 72,55,166
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
