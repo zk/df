@@ -1,4 +1,4 @@
-2017-09-06 19:53:34.957 dwarfort.exe[72288:6590051] 19:53:34.956 WARNING:  140: This application, or a library it uses, is using the deprecated Carbon Component Manager for hosting Audio Units. Support for this will be removed in a future release. Also, this makes the host incompatible with version 3 audio units. Please transition to the API's in AudioComponent.h.
+2017-09-07 09:46:04.931 dwarfort.exe[73643:6778986] 09:46:04.931 WARNING:  140: This application, or a library it uses, is using the deprecated Carbon Component Manager for hosting Audio Units. Support for this will be removed in a future release. Also, this makes the host incompatible with version 3 audio units. Please transition to the API's in AudioComponent.h.
 dfhack: saving real SDL functions
 dfhack: saved real SDL functions
 dfhack: hooking successful
@@ -358,90 +358,7 @@ Invoking: view-item-info enable
 Invoking: gui/load-screen enable
 Invoking: gui/prerelease-warning
 loaded map in prerelease build
-Invoking: gui/prerelease-warning
-loaded map in prerelease build
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-Invoking: prospect
-UNKNOWN CLASS 'iewscreenAutochop': vtable = 0x10d07c410
 UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x10dcd2710
 UNKNOWN CLASS 'iewscreenStocks': vtable = 0x10e3d56d0
+UNKNOWN CLASS 'viewscreen_unitbatchopst': vtable = 0x10dcd2870
+Console is shutting down properly.

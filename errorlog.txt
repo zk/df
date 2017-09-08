@@ -8751,3 +8751,18 @@ loop path fail: <same square> crundle,24,176,43 -> 24,175,43: Id #16153:Path Goa
 path fail: dwarf,Drink,178,68,66 -> 179,67,65: Id #9419:Path Goal Start Water Job Drink Area:Station Mill Building at 125,142,62
 path fail: dwarf,Drink,175,69,66 -> 176,69,65: Id #9419:Path Goal Start Water Job Drink Area:Station Mill Building at 131,146,62
 path fail: dwarf,Return Kill,180,76,65 -> 93,148,44: Id #10442:Path Goal Grab Kill:Station Mill Building at 122,146,62
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,99,109,62 -> 99,111,62: Id #9409:Path Goal Seek Station:Station Mill Building at 119,150,62
+loop path fail: <same square> crundle,0,27,44 -> 10,31,44: Id #16779:Path Goal Seek Station:Station Owner at 21,40,44
+loop path fail: <same square> dwarf,95,106,62 -> 100,109,62: Id #9409:Path Goal Seek Station:Station Mill Building at 101,109,62
+loop path fail: <same square> dwarf,104,111,62 -> 121,141,62: Id #174:Path Goal Seek Station:Station Mill Building at 98,111,62
+loop path fail: <same square> dwarf,102,111,62 -> 100,109,62: Id #6952:Path Goal Seek Station:Station Mill Building at 97,108,62
+loop path fail: <same square> dwarf,101,110,62 -> 100,109,62: Id #6952:Path Goal Seek Station:Station Mill Building at 97,108,62
+path fail: giant rat,161,29,44 -> 160,27,44: Id #16798:Path Goal Flee from Opponent:Station Marauder Mill at 160,30,44
