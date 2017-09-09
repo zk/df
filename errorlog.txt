@@ -8766,3 +8766,10 @@ loop path fail: <same square> dwarf,104,111,62 -> 121,141,62: Id #174:Path Goal 
 loop path fail: <same square> dwarf,102,111,62 -> 100,109,62: Id #6952:Path Goal Seek Station:Station Mill Building at 97,108,62
 loop path fail: <same square> dwarf,101,110,62 -> 100,109,62: Id #6952:Path Goal Seek Station:Station Mill Building at 97,108,62
 path fail: giant rat,161,29,44 -> 160,27,44: Id #16798:Path Goal Flee from Opponent:Station Marauder Mill at 160,30,44
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dwarf,97,109,62 -> 128,147,62: Id #8385:Path Goal Seek Station:Station Mill Building at 128,146,62
