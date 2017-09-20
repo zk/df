@@ -1,3 +1,8 @@
+plug
+plug sound
+plug | grep sound
+plug
+help
 die
 help
 quit

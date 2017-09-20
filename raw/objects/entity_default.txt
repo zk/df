@@ -344,6 +344,7 @@ entity_default
 	[VALUE:NATURE:-15]
 	[VALUE:PEACE:0]
 	[WILL_ACCEPT_TRIBUTE]
+        [PERMITTED_BUILDING:DISPLAY_CASE]
 
 	For the LAND_HOLDER positions below (baron etc.) this sets up the different levels your fort needs to reach to attain them.  LAND_HOLDER_TRIGGER:<land holder number>:<population>:<wealth exported>:<created wealth>
 

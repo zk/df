@@ -8814,3 +8814,635 @@ path fail: horse,131,80,155 -> 119,65,158: Id #11526:Path Goal Seek Station Floo
 path fail: horse,131,80,155 -> 119,65,158: Id #11531:Path Goal Seek Station Flood:Station None at 119,65,158
 path fail: horse,131,80,155 -> 119,65,158: Id #11536:Path Goal Seek Station Flood:Station None at 119,65,158
 path fail: horse,131,80,155 -> 119,65,158: Id #11541:Path Goal Seek Station Flood:Station None at 119,65,158
+path fail: crundle,79,2,118 -> 82,0,119: Id #7056:Path Goal Seek Station:Station Head for Edge at 82,0,119
+loop path fail: <same square> dwarf,Store Item in Stockpile,60,121,167 -> 54,117,167: Id #6962:Path Goal Store Item:Station Mill Building at 60,135,167
+loop path fail: <same square> dwarf,Store Item in Stockpile,59,122,167 -> 53,121,167: Id #7085:Path Goal Store Item:Station Mill Building at 58,137,167
+path fail: dwarf,Construct Building,37,117,167 -> 37,118,167: Id #7075:Path Goal Main Job Building:Station Mill Building at 59,138,167
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: draltha,48,8,131 -> 33,7,133: Id #7333:Path Goal Flee from Opponent:Station Owner at 57,9,132
+path fail: draltha,48,8,131 -> 60,1,132: Id #7333:Path Goal Flee from Opponent:Station Owner at 57,9,132
+path fail: draltha,187,169,129 -> 190,184,130: Id #7339:Path Goal Flee from Opponent:Station Owner at 174,150,130
+path fail: draltha,188,167,129 -> 189,154,129: Id #7339:Path Goal Flee from Opponent:Station Owner at 174,150,130
+path fail: elk bird,33,7,133 -> 23,11,133: Id #7345:Path Goal Flee from Opponent:Station Marauder Mill at 19,81,130
+path fail: elk bird,32,9,133 -> 39,11,132: Id #7345:Path Goal Flee Terrain:Station Marauder Mill at 19,81,130
+path fail: elk bird,34,6,132 -> 30,15,133: Id #7345:Path Goal Flee Terrain:Station Marauder Mill at 19,81,130
+path fail: elk bird,37,3,132 -> 0,65,130: Id #7374:Path Goal Seek Station:Station None at 0,67,130
+path fail: dwarf,Construct Building,105,68,160 -> 104,68,160: Id #6763:Path Goal Main Job Building:Station Mill Building at 57,138,167
+path fail: elk bird,15,169,129 -> 14,156,130: Id #7373:Path Goal Flee from Opponent:Station Marauder Mill at 76,170,130
+path fail: draltha,171,21,130 -> 180,14,130: Id #7408:Path Goal Flee from Opponent:Station Owner at 168,28,130
+path fail: draltha,171,18,131 -> 169,5,131: Id #7408:Path Goal Flee from Opponent:Station Owner at 168,28,130
+path fail: draltha,15,116,132 -> 1,110,133: Id #7422:Path Goal Flee from Opponent:Station Owner at 6,111,133
+path fail: troll,26,35,130 -> 13,50,133: Id #7423:Path Goal Flee Terrain:Station Marauder Mill at 24,36,130
+path fail: elk bird,27,33,130 -> 29,18,131: Id #7429:Path Goal Flee from Opponent:Station Owner at 30,110,130
+path fail: elk bird,35,2,132 -> 48,8,131: Id #7428:Path Goal Flee from Opponent:Station Owner at 32,24,131
+path fail: elk bird,68,1,132 -> 82,0,132: Id #7432:Path Goal Flee from Opponent:Station Owner at 69,1,132
+path fail: elk bird,68,18,131 -> 64,31,131: Id #7431:Path Goal Flee from Opponent:Station Owner at 67,40,131
+path fail: elk bird,38,158,132 -> 40,141,131: Id #7464:Path Goal Flee from Opponent:Station Owner at 38,152,132
+path fail: elk bird,96,181,129 -> 142,170,132: Id #7465:Path Goal Seek Station:Station Marauder Mill at 141,170,132
+path fail: elk bird,92,179,129 -> 77,184,131: Id #7465:Path Goal Flee from Opponent:Station Marauder Mill at 141,170,132
+path fail: elk bird,92,174,129 -> 83,160,131: Id #7465:Path Goal Flee from Opponent:Station Marauder Mill at 141,170,132
+path fail: elk bird,93,175,129 -> 78,176,131: Id #7465:Path Goal Flee from Opponent:Station Marauder Mill at 141,170,132
+path fail: elk bird,45,121,134 -> 42,134,132: Id #7467:Path Goal Flee from Opponent:Station Head for Edge at 162,0,131
+path fail: draltha,189,137,130 -> 180,150,130: Id #7477:Path Goal Flee from Opponent:Station Owner at 181,146,130
+path fail: draltha,189,172,129 -> 190,185,130: Id #7475:Path Goal Flee from Opponent:Station Owner at 186,167,129
+path fail: draltha,189,172,129 -> 182,157,129: Id #7475:Path Goal Flee from Opponent:Station Owner at 186,167,129
+path fail: draltha,163,152,131 -> 151,163,132: Id #7476:Path Goal Flee from Opponent:Station Marauder Mill at 170,155,130
+path fail: draltha,160,150,131 -> 176,152,130: Id #7476:Path Goal Flee from Opponent:Station Marauder Mill at 170,155,130
+path fail: draltha,161,148,131 -> 176,153,130: Id #7476:Path Goal Flee from Opponent:Station Marauder Mill at 170,155,130
+path fail: draltha,163,149,130 -> 176,143,130: Id #7476:Path Goal Flee from Opponent:Station Marauder Mill at 170,155,130
+path fail: draltha,162,150,131 -> 162,163,131: Id #7476:Path Goal Flee from Opponent:Station Marauder Mill at 170,155,130
+path fail: draltha,160,149,131 -> 176,146,130: Id #7476:Path Goal Flee from Opponent:Station Marauder Mill at 170,155,130
+path fail: draltha,154,6,131 -> 162,0,131: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,156,10,131 -> 156,25,130: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,155,12,130 -> 142,25,130: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,154,13,130 -> 158,26,130: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,155,15,130 -> 154,26,130: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,159,21,130 -> 173,26,130: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,159,22,130 -> 174,19,130: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,159,22,130 -> 167,7,131: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: draltha,160,30,130 -> 161,45,129: Id #7501:Path Goal Flee from Opponent:Station Marauder Mill at 148,13,130
+path fail: elk bird,45,174,132 -> 33,187,130: Id #7509:Path Goal Flee from Opponent:Station Owner at 46,173,133
+path fail: elk bird,45,173,133 -> 55,160,133: Id #7509:Path Goal Flee from Opponent:Station Owner at 46,173,133
+path fail: elk bird,123,160,131 -> 136,157,132: Id #7506:Path Goal Flee from Opponent:Station Marauder Mill at 46,165,133
+path fail: giant cave swallow,43,158,133 -> 52,164,133: Id #7505:Path Goal Flee from Opponent:Station Marauder Mill at 44,150,134
+path fail: troll,94,180,129 -> 107,191,134: Id #7512:Path Goal Flee Terrain:Station Marauder Mill at 93,179,129
+path fail: troll,95,174,129 -> 80,174,130: Id #7512:Path Goal Flee from Opponent:Station Marauder Mill at 93,179,129
+path fail: elk bird,166,32,129 -> 164,18,131: Id #7521:Path Goal Flee from Opponent:Station Owner at 160,20,130
+path fail: elk bird,167,30,129 -> 179,38,129: Id #7521:Path Goal Flee from Opponent:Station Owner at 160,20,130
+path fail: elk bird,168,31,129 -> 161,17,131: Id #7521:Path Goal Flee from Opponent:Station Owner at 160,20,130
+path fail: elk bird,169,28,130 -> 177,16,130: Id #7521:Path Goal Flee from Opponent:Station Owner at 160,20,130
+path fail: elk bird,170,30,129 -> 172,43,129: Id #7521:Path Goal Flee from Opponent:Station Owner at 160,20,130
+path fail: elk bird,173,30,129 -> 185,31,129: Id #7521:Path Goal Flee from Opponent:Station Owner at 160,20,130
+path fail: elk bird,169,30,129 -> 164,45,129: Id #7521:Path Goal Flee Terrain:Station Owner at 160,20,130
+path fail: elk bird,169,60,129 -> 154,52,131: Id #7519:Path Goal Flee from Opponent:Station Owner at 96,28,131
+path fail: elk bird,54,74,130 -> 55,73,130: Id #7517:Path Goal Conflict Defense:Station Marauder Mill at 110,64,130
+path fail: troll,185,129,129 -> 172,145,133: Id #7549:Path Goal Flee Terrain:Station Marauder Mill at 186,129,129
+path fail: gorlak,46,23,131 -> 46,21,131: Id #7551:Path Goal Conflict Defense:Station Marauder Mill at 46,31,131
+path fail: troll,10,97,130 -> 16,89,136: Id #7550:Path Goal Flee Terrain:Station Marauder Mill at 15,99,132
+path fail: gorlak,178,89,131 -> 191,76,133: Id #7553:Path Goal Flee from Opponent:Station Marauder Mill at 179,89,132
+path fail: troll,50,138,133 -> 59,123,135: Id #7577:Path Goal Flee from Opponent:Station Marauder Mill at 51,138,133
+path fail: gorlak,66,16,131 -> 80,30,132: Id #7580:Path Goal Flee Terrain:Station Marauder Mill at 70,18,132
+path fail: giant cave swallow,163,173,132 -> 172,185,135: Id #7579:Path Goal Flee Terrain:Station Marauder Mill at 181,175,129
+path fail: giant cave swallow,137,174,132 -> 148,172,132: Id #7612:Path Goal Flee from Opponent:Station Marauder Mill at 134,167,132
+path fail: gorlak,20,3,133 -> 34,2,133: Id #7639:Path Goal Flee from Opponent:Station Marauder Mill at 23,9,133
+path fail: giant cave swallow,106,31,131 -> 97,33,132: Id #7611:Path Goal Flee Terrain:Station Marauder Mill at 91,28,131
+path fail: gorlak,17,156,130 -> 25,142,131: Id #7641:Path Goal Flee from Opponent:Station Marauder Mill at 22,160,131
+path fail: gorlak,17,153,130 -> 27,140,131: Id #7641:Path Goal Flee from Opponent:Station Marauder Mill at 22,160,131
+loop path fail: <same square> dwarf,Store Item in Stockpile,60,122,167 -> 55,119,167: Id #5322:Path Goal Store Item:Station Mill Building at 64,135,167
+path fail: gorlak,148,11,130 -> 136,15,134: Id #7642:Path Goal Flee Terrain:Station Marauder Mill at 145,15,130
+path fail: gorlak,28,5,133 -> 23,18,132: Id #7644:Path Goal Flee from Opponent:Station Marauder Mill at 33,8,132
+path fail: gorlak,31,6,133 -> 27,18,133: Id #7647:Path Goal Flee from Opponent:Station Marauder Mill at 30,5,133
+path fail: gorlak,30,6,133 -> 20,18,134: Id #7647:Path Goal Flee Terrain:Station Marauder Mill at 30,5,133
+path fail: gorlak,127,12,132 -> 114,17,132: Id #7648:Path Goal Flee from Opponent:Station Marauder Mill at 128,12,132
+path fail: giant cave swallow,27,12,133 -> 28,26,133: Id #7674:Path Goal Flee from Opponent:Station Marauder Mill at 30,15,133
+path fail: gorlak,5,160,129 -> 2,173,129: Id #7675:Path Goal Flee from Opponent:Station Marauder Mill at 6,156,130
+path fail: dwarf,Return Kill,120,27,169 -> 75,110,133: Id #7569:Path Goal Grab Kill:Station Mill Building at 59,133,167
+path fail: dwarf,Return Kill,71,127,167 -> 77,135,133: Id #5322:Path Goal Grab Kill:Station Mill Building at 58,138,167
+path fail: dwarf,Return Kill,46,82,172 -> 144,156,132: Id #5322:Path Goal Grab Kill:Station Mill Building at 58,138,167
+path fail: dwarf,Return Kill,32,0,170 -> 8,117,132: Id #7686:Path Goal Grab Kill:Station Mill Building at 65,137,167
+path fail: gorlak,11,41,130 -> 21,54,130: Id #7712:Path Goal Flee from Opponent:Station Marauder Mill at 10,40,131
+path fail: gorlak,13,43,130 -> 6,56,132: Id #7712:Path Goal Flee Terrain:Station Marauder Mill at 10,40,131
+path fail: gorlak,70,145,133 -> 69,158,133: Id #7707:Path Goal Flee from Opponent:Station Marauder Mill at 64,141,133
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> crundle,163,79,121 -> 149,76,121: Id #7747:Path Goal Seek Station:Station Owner at 167,76,121
+path fail: dwarf,Return Kill,115,3,169 -> 119,0,169: Id #7686:Path Goal Grab Kill:Station Mill Building at 57,139,167
+loop path fail: <same square> dwarf,Construct Building,62,122,167 -> 43,122,167: Id #7556:Path Goal Drop Off Job Items:Station Mill Building at 58,136,167
+loop path fail: <same square> dwarf,Construct Building,59,122,167 -> 42,106,167: Id #6970:Path Goal Drop Off Job Items:Station Mill Building at 65,135,167
+path fail: dwarf,Construct Building,166,138,174 -> 167,138,174: Id #6762:Path Goal Main Job Building:Station Mill Building at 62,138,167
+path fail: dwarf,Store Item in Stockpile,57,120,168 -> 64,142,119: Id #6515:Path Goal Seek Item for Storage:Station Mill Building at 57,138,167
+path fail: dwarf,Store Item in Stockpile,64,138,167 -> 64,142,119: Id #6958:Path Goal Seek Item for Storage:Station Mill Building at 64,136,167
+path fail: cat,68,121,167 -> 67,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 63,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 65,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 64,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 66,144,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 61,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 62,139,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,121,167 -> 67,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: dwarf,Store Item in Stockpile,63,136,167 -> 64,142,119: Id #6952:Path Goal Seek Item for Storage:Station Mill Building at 62,137,167
+path fail: dwarf,Store Item in Stockpile,63,135,167 -> 64,142,119: Id #6958:Path Goal Seek Item for Storage:Station Mill Building at 64,136,167
+path fail: dwarf,Store Item in Stockpile,63,137,167 -> 64,142,119: Id #6628:Path Goal Seek Item for Storage:Station Mill Building at 63,136,167
+path fail: dwarf,Store Item in Stockpile,61,137,167 -> 64,142,119: Id #6953:Path Goal Seek Item for Storage:Station Mill Building at 60,135,167
+path fail: dwarf,Store Item in Stockpile,63,137,167 -> 64,142,119: Id #6515:Path Goal Seek Item for Storage:Station Mill Building at 62,136,167
+path fail: cat,65,128,167 -> 65,143,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,65,128,167 -> 65,145,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,65,128,167 -> 65,142,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,65,128,167 -> 63,140,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,65,128,167 -> 64,141,119: Id #6520:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: dwarf,Store Item in Stockpile,58,138,167 -> 64,142,119: Id #6515:Path Goal Seek Item for Storage:Station Mill Building at 62,136,167
+path fail: dwarf,Store Item in Stockpile,66,127,167 -> 64,142,119: Id #6512:Path Goal Seek Item for Storage:Station Mill Building at 65,137,167
+path fail: cat,66,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 61,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 63,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 61,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 61,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 61,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 63,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,66,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: dwarf,Store Item in Stockpile,63,136,167 -> 64,142,119: Id #6763:Path Goal Seek Item for Storage:Station Mill Building at 64,137,167
+path fail: cat,68,125,167 -> 63,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 61,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,144,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,143,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 65,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 63,142,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 62,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 66,139,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 64,145,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,140,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,68,125,167 -> 67,141,119: Id #6521:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: dwarf,Store Item in Stockpile,63,137,167 -> 64,142,119: Id #6628:Path Goal Seek Item for Storage:Station Mill Building at 64,135,167
+path fail: dwarf,Store Item in Stockpile,60,127,167 -> 64,142,119: Id #1695:Path Goal Seek Item for Storage:Station Mill Building at 60,136,167
+path fail: dwarf,Store Item in Stockpile,62,139,167 -> 64,142,119: Id #6763:Path Goal Seek Item for Storage:Station Mill Building at 61,138,167
+path fail: dwarf,Store Item in Stockpile,58,137,167 -> 64,142,119: Id #6954:Path Goal Seek Item for Storage:Station Mill Building at 60,136,167
+path fail: cat,63,122,167 -> 64,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 61,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 61,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,143,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 63,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,143,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 64,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,144,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 63,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 63,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,144,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 63,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 62,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 61,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 64,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 65,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 64,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 62,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 61,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,145,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 63,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 64,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 61,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 62,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,142,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 64,144,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 64,144,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 61,139,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 63,141,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 64,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 63,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 66,140,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: cat,63,122,167 -> 67,143,119: Id #6963:Path Goal Seek Station:Station Vermin Hunting at 64,142,119
+path fail: dwarf,Store Item in Stockpile,60,137,167 -> 64,142,119: Id #6965:Path Goal Seek Item for Storage:Station Mill Building at 65,135,167
+path fail: dwarf,Store Item in Stockpile,56,123,167 -> 64,142,119: Id #6516:Path Goal Seek Item for Storage:Station Mill Building at 62,137,167
+path fail: badger sow,119,1,169 -> 118,0,168: Id #7973:Path Goal Seek Station Flood:Station Owner at 118,0,168
+path fail: dwarf,Store Item in Stockpile,63,137,167 -> 64,142,119: Id #6965:Path Goal Seek Item for Storage:Station Mill Building at 65,135,167
+path fail: dwarf,Store Item in Stockpile,65,121,167 -> 64,142,119: Id #6516:Path Goal Seek Item for Storage:Station Mill Building at 61,136,167
+path fail: dwarf,82,126,166 -> 58,134,167: Id #6761:Path Goal Seek Station:Station Mill Building at 57,135,167
+path fail: dwarf,Store Item in Stockpile,57,138,167 -> 64,142,119: Id #6516:Path Goal Seek Item for Storage:Station Mill Building at 57,139,167
+path fail: dwarf,Store Item in Stockpile,59,137,167 -> 64,142,119: Id #7555:Path Goal Seek Item for Storage:Station Mill Building at 57,137,167
+path fail: dwarf,Store Item in Stockpile,88,141,169 -> 64,142,119: Id #7681:Path Goal Seek Item for Storage:Station Mill Building at 58,138,167
+loop path fail: <same square> dog,60,123,167 -> 45,123,167: Id #7852:Path Goal Seek Station:Station Owner at 98,147,167
+path fail: dwarf,Store Item in Stockpile,48,123,167 -> 64,142,119: Id #6962:Path Goal Seek Item for Storage:Station Mill Building at 65,139,167
+path fail: dwarf,Store Item in Stockpile,57,139,167 -> 64,142,119: Id #7572:Path Goal Seek Item for Storage:Station Mill Building at 65,136,167
+loop path fail: <same square> dwarf,Store Item in Stockpile,61,134,167 -> 51,117,167: Id #7076:Path Goal Store Item:Station Mill Building at 60,132,167
+loop path fail: <same square> hen,55,135,167 -> 56,143,167: Id #7985:Path Goal Seek Station:Station Owner at 35,118,167
+loop path fail: <same square> dwarf,56,130,167 -> 59,143,167: Id #7221:Path Goal Seek Station:Station Mill Building at 15,149,166
+loop path fail: <same square> dog,62,126,167 -> 57,132,167: Id #6518:Path Goal Seek Station:Station Owner at 59,131,167
+loop path fail: <same square> dog,61,126,167 -> 57,132,167: Id #6518:Path Goal Seek Station:Station Owner at 59,131,167
+loop path fail: <same square> dwarf,Store Item in Stockpile,59,132,167 -> 152,137,174: Id #5322:Path Goal Seek Item for Storage:Station Mill Building at 60,147,167
+loop path fail: <same square> dwarf,Store Item in Stockpile,61,135,167 -> 51,115,167: Id #1695:Path Goal Store Item:Station Mill Building at 62,135,167
+loop path fail: <same square> dog,64,139,167 -> 65,139,167: Id #7380:Path Goal Seek Station:Station Mill Building at 65,138,167
+loop path fail: <same square> dog,60,135,167 -> 72,145,167: Id #7643:Path Goal Seek Station:Station Owner at 58,139,167
+loop path fail: <same square> dog,50,123,167 -> 54,127,168: Id #6519:Path Goal Seek Station:Station Owner at 63,146,167
+loop path fail: <same square> dog,60,125,167 -> 61,126,167: Id #7864:Path Goal Seek Station:Station Owner at 59,140,167
+loop path fail: <same square> dwarf,62,130,167 -> 58,130,167: Id #7218:Path Goal Seek Station:Station Mill Building at 65,142,167
+loop path fail: <same square> dog,58,138,167 -> 59,138,167: Id #8051:Path Goal Seek Station:Station Owner at 64,136,167
+loop path fail: <same square> dwarf,Store Item in Stockpile,61,137,167 -> 142,134,174: Id #6628:Path Goal Seek Item for Storage:Station Mill Building at 59,131,167
+loop path fail: <same square> dwarf,58,134,167 -> 32,156,166: Id #7807:Path Goal Seek Station:Station Mill Building at 32,157,166
+loop path fail: <same square> dog,63,139,167 -> 60,140,167: Id #8088:Path Goal Seek Station:Station Owner at 62,141,167
+loop path fail: <same square> dog,59,143,167 -> 63,142,167: Id #8052:Path Goal Seek Station:Station Owner at 64,140,167
+loop path fail: <same square> dwarf,59,134,167 -> 59,133,167: Id #7564:Path Goal Seek Station:Station Mill Building at 59,134,167
+loop path fail: <same square> dwarf,36,135,166 -> 57,131,167: Id #7213:Path Goal Seek Station:Station Mill Building at 21,142,166
+loop path fail: <same square> dog,58,134,167 -> 61,136,167: Id #7859:Path Goal Seek Station:Station Owner at 55,141,167
+loop path fail: <same square> dwarf,62,135,167 -> 13,152,166: Id #7682:Path Goal Seek Station:Station Mill Building at 13,153,166
+loop path fail: <same square> dwarf,Store Item in Stockpile,158,139,174 -> 162,134,174: Id #7555:Path Goal Seek Item for Storage:Station Mill Building at 13,147,166
+loop path fail: <same square> dog,65,140,167 -> 64,136,167: Id #8052:Path Goal Seek Station:Station Owner at 56,123,167
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dog,61,127,167 -> 59,127,167: Id #7853:Path Goal Seek Station:Station Owner at 114,141,168
+loop path fail: <same square> dog,63,136,167 -> 58,135,167: Id #8053:Path Goal Seek Station:Station Owner at 57,137,167
