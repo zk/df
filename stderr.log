@@ -1,4 +1,4 @@
-2017-09-19 19:59:27.892 dwarfort.exe[38717:5894693] 19:59:27.892 WARNING:  140: This application, or a library it uses, is using the deprecated Carbon Component Manager for hosting Audio Units. Support for this will be removed in a future release. Also, this makes the host incompatible with version 3 audio units. Please transition to the API's in AudioComponent.h.
+2017-09-22 13:44:40.258 dwarfort.exe[57381:8560054] 13:44:40.258 WARNING:  140: This application, or a library it uses, is using the deprecated Carbon Component Manager for hosting Audio Units. Support for this will be removed in a future release. Also, this makes the host incompatible with version 3 audio units. Please transition to the API's in AudioComponent.h.
 dfhack: saving real SDL functions
 dfhack: saved real SDL functions
 dfhack: hooking successful
@@ -358,3 +358,5 @@ Invoking: view-item-info enable
 Invoking: gui/load-screen enable
 Invoking: gui/prerelease-warning
 loaded map in prerelease build
+UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x10dcd2710
+UNKNOWN CLASS 'iewscreenStocks': vtable = 0x10e4d56d0
